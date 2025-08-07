@@ -24,9 +24,6 @@ PigCatLedger (“we”, “us”, or “our”) is an app for personal expense a
   • **Purpose**: NLP parsing of your transaction text  
   • **Data Sent**: Only the plain text you enter  
   • **Data Retention**: Zhiju AI processes and returns parsed results, then deletes all submitted data immediately  
-- **Apple iCloud (Optional)**  
-  • **Purpose**: Synchronize your data across devices  
-  • **Data Stored**: Your encrypted transaction records  
 
 ## 4. Data Retention & Deletion  
 - Parsed results and app data remain on your device until you delete them.  
@@ -35,13 +32,10 @@ PigCatLedger (“we”, “us”, or “our”) is an app for personal expense a
 ## 5. Security  
 We use standard industry practices to secure your data on device and in transit (TLS encryption). We do **not** sell or rent your personal data.
 
-## 6. Children  
-PigCatLedger is not intended for use by children under 13. We do not knowingly collect data from children.
-
-## 7. Changes to This Policy  
+## 6. Changes to This Policy  
 We may update this policy occasionally. The “Last updated” date at the top will reflect changes.
 
-## 8. Contact Us  
+## 7. Contact Us  
 If you have questions or concerns about this Privacy Policy, please contact us at:  
 ✉️ 2225223367@qq.com  
 ✉️ xc72039@gmail.com
